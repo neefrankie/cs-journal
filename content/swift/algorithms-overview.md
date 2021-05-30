@@ -1,5 +1,5 @@
 ---
-title: "数据机构与算法（Swift）：概述"
+title: "数据结构与算法（Swift）：概述"
 date: 2021-05-30T16:10:07+08:00
 draft: true
 ---
