@@ -137,4 +137,7 @@ log<sub>5</sub>(0.008)是多少？
 
 ## Logarithm来源
 
-Logarithm一词由苏格兰苏数学家约翰·奈皮尔（John Napier，1550-1617）所创，结合了希腊单词logos和arithmos。logos意思是“比率、比例”，arithmos指数字，结合起来就是“比例-数字”
+Logarithm一词由苏格兰苏数学家约翰·奈皮尔（John Napier，1550-1617）所创，结合了希腊单词logos和arithmos。logos意思是“比率、比例”，arithmos指数字，结合起来就是“比例-数字”。
+
+
+Reference: https://www.mathsisfun.com/algebra/logarithms.html
