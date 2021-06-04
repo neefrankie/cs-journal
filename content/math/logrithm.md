@@ -31,7 +31,7 @@ log<sub>2</sub>(8) = 3
 
 以下二者相同：
 
-![](/logarithm-concept.svg)
+![](../../static/logarithm-concept.svg)
 
 
 相乘的这个数叫做“底数”，我们可以说：“以2为底、8的对数是3”。
@@ -65,7 +65,7 @@ log<sub>2</sub>(8) = 3
 
 指数和对数相关，我们看看它们之间的关系：
 
-![](/exponent-2-3.svg)
+![](../../static/exponent-2-3.svg)
 
 指数表示在一次乘法运算中，使用某个数的次数。
 
@@ -73,17 +73,17 @@ log<sub>2</sub>(8) = 3
 
 所以，对数回答了这样的问题：
 
-![](/logarithm-question.gif)
+![](../../static/logarithm-question.gif)
 
 这样看：
 
-![](/exponent-to-logarithm.gif)
+![](../../static/exponent-to-logarithm.gif)
 
 对数告诉我们指数是多少！
 
 上例中，“底数”是2，“指数”是3：
 
-![](/logarithm-exponent.svg)
+![](../../static/logarithm-exponent.svg)
 
 因此，对数回答了这个问题：**如果要把一个数变为另一个数，需要的指数是多少？**
 
