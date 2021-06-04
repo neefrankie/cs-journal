@@ -31,7 +31,7 @@ log<sub>2</sub>(8) = 3
 
 以下二者相同：
 
-![](../../static/logarithm-concept.svg)
+![](/logarithm-concept.svg)
 
 
 相乘的这个数叫做“底数”，我们可以说：“以2为底、8的对数是3”。
@@ -65,7 +65,7 @@ log<sub>2</sub>(8) = 3
 
 指数和对数相关，我们看看它们之间的关系：
 
-![](../../static/exponent-2-3.svg)
+![](/exponent-2-3.svg)
 
 指数表示在一次乘法运算中，使用某个数的次数。
 
@@ -73,17 +73,17 @@ log<sub>2</sub>(8) = 3
 
 所以，对数回答了这样的问题：
 
-![](../../static/logarithm-question.gif)
+![](/logarithm-question.gif)
 
 这样看：
 
-![](../../static/exponent-to-logarithm.gif)
+![](/exponent-to-logarithm.gif)
 
 对数告诉我们指数是多少！
 
 上例中，“底数”是2，“指数”是3：
 
-![](../../static/logarithm-exponent.svg)
+![](/logarithm-exponent.svg)
 
 因此，对数回答了这个问题：**如果要把一个数变为另一个数，需要的指数是多少？**
 
@@ -139,5 +139,4 @@ log<sub>5</sub>(0.008)是多少？
 
 Logarithm一词由苏格兰苏数学家约翰·奈皮尔（John Napier，1550-1617）所创，结合了希腊单词logos和arithmos。logos意思是“比率、比例”，arithmos指数字，结合起来就是“比例-数字”。
 
-
-Reference: https://www.mathsisfun.com/algebra/logarithms.html
+Reference: 
