@@ -89,7 +89,7 @@ log<sub>2</sub>(8) = 3
 
 ## 以10为底的常用对数
 
-有时，一个对数不带指数，如：**log(100)**
+有时，一个对数不带底数，如：**log(100)**
 
 这通常表示，底数是10，称为“常用对数”（common logarithm），也是计算器上的“log”按钮。它表示，要得到一个想要的数，需要把10相乘多少次。
 
@@ -97,7 +97,7 @@ log<sub>2</sub>(8) = 3
 
 ## 自然对数：以“e”为底
 
-另一个常用的底数是“e”（Euler‘s Number），大约为2.71828，叫做自然对数，在计算器上是“ln”键。
+另一个常用的底数是“e”（Euler's Number），大约为2.71828，叫做自然对数，在计算器上是“ln”键。
 
 自然对数表示要得到一个数，需要把“e”相乘多少次。
 
@@ -139,4 +139,4 @@ log<sub>5</sub>(0.008)是多少？
 
 Logarithm一词由苏格兰苏数学家约翰·奈皮尔（John Napier，1550-1617）所创，结合了希腊单词logos和arithmos。logos意思是“比率、比例”，arithmos指数字，结合起来就是“比例-数字”。
 
-Reference: 
+Reference: https://www.mathsisfun.com/algebra/logarithms.html
