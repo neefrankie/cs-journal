@@ -36,6 +36,7 @@ draft: true
 
 用几何图形可以表示如下：画一个正方形，边长为x。
 
+![](/static/caculus-made-easy/chapter1-square.png)
 
 现在假设正方形增长了，边长增加dx。变大的正方形由这些部分组成：
 
@@ -44,6 +45,8 @@ draft: true
 * 右上角的小正方形，面积为(dx)²。
 
 假设dx只有x的1/100，角落上的小正方形面积仅为x²的1/10,000，几乎不可见。仅当增量dx十分微小时，(dx)²显然可以忽略不计。
+
+![](/static/caculus-made-easy/chapter1-square-dx.png)
 
 再举一例。
 
