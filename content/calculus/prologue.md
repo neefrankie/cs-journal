@@ -4,9 +4,7 @@ date: 2021-06-10T21:28:59+08:00
 draft: true
 ---
 
-《简易微积分》
-
-Silvanus Thompson 著，1914年出版
+Calculus Made Easy by Silvanus Thompson，1914
 
 ## 前言
 
