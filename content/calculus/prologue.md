@@ -4,7 +4,9 @@ date: 2021-06-10T21:28:59+08:00
 draft: true
 ---
 
-Calculus Made Easy by Silvanus Thompson，1914
+Calculus Made Easy by Silvanus Thompson
+
+本书据Gutenberg项目2012年10月9日版本译出。原书出版于1914年。
 
 ## 前言
 

@@ -20,5 +20,23 @@ draft: true
 怎么写一个程序对单词易位构词？这里站是一个方法。假设单词有n个字母。
 
 1. 对右侧的n-1个字母易位构词
-2. 轮转所有的n个字母
+2. 按序循环移动所有的n个字母
 3. 这些步骤重复n次
+
+按序循环移动单词是指把所有字母依次向左移动一个位置，最左侧的字母则“旋转”到最右侧，如下图所示
+
+![Rotate a word](/static/algorithms/recursion-rotate-a-word.png)
+
+单词旋转n次，就让每个字母都有机会排在单词的开始位置。被选中的字母占据第一个位置时，其余的字母进行易位构词。单词cat只有三个字母，旋转剩余的两个字母只需交换位置即可。序列如下所示。
+
+![Anagramming the word cat](/static/algorithms/recursion-anagramming-the-word-cat.png)
+
+注意，后两个字母必须旋转回初始位置才能旋转三个字母。这会产生序列cat、cta、cat。冗余的序列不予显示。
+
+如何对最右侧的n-1个字母易位构词呢？调用自己。递归函数doAnagram()的唯一参数时易位构词的单词的大小。这个单词时完整单词最右侧的n个字母。每次doAnagram()调用自己，传递的的单词就比上一次少一个字母。
+
+![The recursive doAnagram() method](/static/algorithms/recursion-doAnagram-method.png)
+
+当被易位构词的单词只剩一个字母时，就触发基准条件。一个单词无法再重新排列。否则就对出第一个字母之后的其余字母易位构词，然后旋转整个单词。这两个动作执行n次，n是单词的长度。
+
+

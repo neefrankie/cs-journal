@@ -16,7 +16,7 @@ draft: true
 
 这一系列数字称为“三角形数”，因为这些数字可以可视化为三角形排列的物体，如下图所示。
 
-![](/static/recursion/triangular-numbers.png)
+![Triangle number](/static/algorithms/recursion-triangular-numbers.png)
 
 ### 使用循环找出第n项值
 
@@ -93,7 +93,7 @@ func triangle(n: Int) -> Int {
 }
 ```
 
-递归函数不需要进行递归调用即可返回的条件称为基准条件。每个递归函数必须有一个基准条件来防止无穷递归，这一点至关重要，否则会导致程序终止。
+递归函数不需要进行递归调用即可返回的条件称为*基准条件*。每个递归函数必须有一个基准条件来防止无穷递归，这一点至关重要，否则会导致程序终止。
 
 ### 递归函数的特征
 
